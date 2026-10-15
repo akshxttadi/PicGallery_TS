@@ -1,0 +1,32 @@
+{
+  "name": "picgallery-ts",
+  "version": "1.0.0",
+  "description": "Modern and responsive photo gallery built with TypeScript, HTML5, and CSS3 powered by the Picsum Photos API.",
+  "main": "app.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshxttadi/PicGallery_TS.git"
+  },
+  "keywords": [
+    "typescript",
+    "picsum-api",
+    "photo-gallery",
+    "responsive-design",
+    "vanilla-ts",
+    "css-grid",
+    "frontend"
+  ],
+  "author": "Akshat Aditya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akshxttadi/PicGallery_TS/issues"
+  },
+  "homepage": "https://github.com/akshxttadi/PicGallery_TS#readme",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
